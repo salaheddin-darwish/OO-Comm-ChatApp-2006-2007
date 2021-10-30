@@ -1,4 +1,4 @@
 # OO-Comm-ChatApp
 Basic Command-line Chat application was developed in 2007
 
-Read The report PDF file for more detials 
+Read "Salaheddin Object-oriented communication report-v.pdf" file for more detials 
