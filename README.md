@@ -1,6 +1,6 @@
 # OO-Comm-ChatApp
 
-This basic Command-line Chat application was developed in 2007 during my Master study
+This is a basic Command-Line Chat application which I designed and developed during my Master study (2006/2007).
 
 For more detials,  pleases read "Salaheddin Object-oriented communication report-v.pdf" file.
 
