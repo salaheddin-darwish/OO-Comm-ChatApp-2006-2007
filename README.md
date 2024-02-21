@@ -4,8 +4,4 @@
 ![alt text](https://github.com/salaheddin-darwish/OO-Comm-ChatApp/blob/main/Images/Chat.jpg?raw=true)
 
 
-This is a basic Command-Line Chat application which I designed and developed during my Master study (2006/2007).
-
-For more detials,  pleases read "Salaheddin Object-oriented communication report-v.pdf" file.
-
-Thanks for my friend Bachar Alrouh for his insights on this work.
+I created a Command-Line Chat application during my Master's program in 2006/2007. For further information, please read the "Salaheddin Object-oriented communication report-v.pdf" file. I would like to thank my friend Bachar Alrouh for his valuable contributions to this project.
